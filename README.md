@@ -1,6 +1,6 @@
 # Front End Nanodegree Program
 
-Front End Nanodegree Content & Project Resources
+Front End Nanodegree Content & Project Resources.
 
 ## Table of Contents
 
